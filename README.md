@@ -1,4 +1,15 @@
 # 配置
+
+### Git
+
+```bash
+#配置用户名
+git config --global user.name "test"
+
+#配置邮箱
+git config --global user.email  abc@163.com
+```
+
 ## Windows
 
 ### wsl2
